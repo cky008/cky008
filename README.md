@@ -18,5 +18,7 @@ I am currently majoring Bachelor of Science (Honours) in Software Systems Practi
   
 ## Github Stats  
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cky008&show_icons=true&theme=transparent)  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cky008)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
