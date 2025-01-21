@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello! 大肚 Here.
-I am currently majoring Bachelor of Science (Honours) in Software Systems Practice at South East Technological University in Waterford, Ireland. I am originally from Fujian, China, where I‘ll receive my degree in Software Engineering from Nanjing University of Information Science & Technology.  Welcome to my page!  
+@aws right now.  Welcome to my page!  
 
 だからずっと忘れない  
 所以这些时光我不会忘怀  
